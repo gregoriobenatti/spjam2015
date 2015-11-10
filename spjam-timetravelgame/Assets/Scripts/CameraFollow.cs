@@ -6,6 +6,7 @@ public class CameraFollow : MonoBehaviour {
 	private Vector2 velocity;
 	
 	public GameObject cameraY;
+	//teste
 	public float smoothTimeX;
 	public GameObject player;
 	
